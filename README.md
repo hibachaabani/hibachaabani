@@ -11,6 +11,7 @@
 | [**CréditBank**](https://github.com/hibachaabani/creditbank-platform) | Plateforme microservices de gestion des crédits bancaires : scoring du risque par XGBoost, moteur de règles de secours, assistant LLM | NestJS · React · FastAPI · PostgreSQL |
 | [**Sensa**](https://github.com/hibachaabani/Sensa) | Réseau social multimodal assisté par l'IA (description d'images, transcription audio, recherche vectorielle) — projet d'équipe | Django · PostgreSQL · pgvector |
 | [**HRBrain**](https://github.com/hibachaabani/Esprit-PIFullstackJS-4TWIN5-2026-HRBrain) | Plateforme RH intelligente : assistant vocal IA, NLP, analyse de CV, pipelines CI/CD Jenkins — projet d'équipe | NestJS · React · Jenkins · Kubernetes |
+| [**TalentIQ**](https://github.com/hibachaabani/talentiq-hr-analytics) | Plateforme HR Analytics par Machine Learning : compatibilité (KNN), segmentation (K-Means) et recommandation d'employés (similarité cosinus) | Python · scikit-learn · Flask · React |
 | [**WearAgain**](https://github.com/hibachaabani/Esprit_5TWIN5_WearAgain) | Plateforme de mode circulaire avec agent IA (function calling) et matching don–besoin | Laravel · MySQL · LLM |
 | [**SWIFT XML → PDF**](https://github.com/hibachaabani/swift-xml-pdf-processor) | Service de génération de rapports PDF à partir de messages SWIFT ISO 20022 | Java · Spring Boot |
 
