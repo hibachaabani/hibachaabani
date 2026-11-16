@@ -1,6 +1,6 @@
 # Bonjour, je suis Hiba Chaabani 👋
 
-[![Mon CV](https://img.shields.io/badge/Mon_CV-T%C3%A9l%C3%A9charger-1f3a93?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/hibachaabani/hibachaabani/blob/main/CV_Hiba_Chaabani.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hiba_Chaabani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-chaabani-2b40bb440) [![Email](https://img.shields.io/badge/Email-Me_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hibetAllah.Chaabani@esprit.tn)
+[![Mon CV](https://img.shields.io/badge/Mon_CV-T%C3%A9l%C3%A9charger-1f3a93?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/hibachaabani/hibachaabani/raw/main/CV_Hiba_Chaabani.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hiba_Chaabani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-chaabani-2b40bb440) [![Email](https://img.shields.io/badge/Email-Me_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hibetAllah.Chaabani@esprit.tn)
 
 Élève ingénieure en 5e année à **ESPRIT** (Technologies du Web et de l'Internet), je conçois des applications web full stack intégrant de l'**intelligence artificielle** : agents LLM, NLP, IA multimodale et machine learning.
 
@@ -27,4 +27,4 @@
 
 ## 📫 Me contacter
 
-📄 [Mon CV](https://github.com/hibachaabani/hibachaabani/blob/main/CV_Hiba_Chaabani.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/hiba-chaabani-2b40bb440) · ✉️ [hibetAllah.Chaabani@esprit.tn](mailto:hibetAllah.Chaabani@esprit.tn)
+📄 [Mon CV](https://github.com/hibachaabani/hibachaabani/raw/main/CV_Hiba_Chaabani.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/hiba-chaabani-2b40bb440) · ✉️ [hibetAllah.Chaabani@esprit.tn](mailto:hibetAllah.Chaabani@esprit.tn)
